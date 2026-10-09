@@ -6,3 +6,5 @@
 - **Branch**: rama, línea de tiempo alternativa.
 - **Merge**: Mezclar las ramas, unen las líneas de tiempo.
 - **Working Directory**: Directorio de trabajo en git donde editamos los archivos
+
+[Volver](./README.md)
